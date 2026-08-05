@@ -8,6 +8,16 @@ This application enables organizations to capture, manage, assign, and track lea
 
 ---
 
+## Live Links
+
+- **Frontend (Vercel):** https://lead-crm-dusky.vercel.app
+- **Backend API (Render):** https://lead-crm-japc.onrender.com
+- **GitHub Repository:** https://github.com/Soumikroy24/lead-crm
+
+> **Note:** The backend is hosted on Render's free tier. If the application has been idle for a while, the first request (such as login) may take 30–60 seconds while the backend wakes up.
+
+---
+
 ## Assignment Objectives
 
 This project was developed to satisfy the requirements of the Digital Heroes Full Stack Development Assignment, including:
