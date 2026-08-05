@@ -34,7 +34,7 @@ const leadSchema = new mongoose.Schema(
                 "Qualified",
                 "Proposal Sent",
                 "Won",
-                "Lost",
+                "Closed",
             ],
             default: "New",
         },
