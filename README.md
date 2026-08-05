@@ -18,6 +18,40 @@ This application enables organizations to capture, manage, assign, and track lea
 
 ---
 
+## Demo Credentials
+
+Use the following credentials to explore the application:
+
+### Admin Account
+
+**Email:** `soumik@test.com`  
+**Password:** `Password@123`
+
+### Member Account
+
+**Email:** `rahul@test.com`  
+**Password:** `Password@123`
+
+OR
+
+**Email:** `priya@test.com`  
+**Password:** `Password@123`
+
+---
+
+### Features to Explore
+
+- Login using Admin or Member accounts
+- Create, edit, and manage leads
+- Assign leads to different team members
+- Add notes with timestamps
+- View the lead activity timeline
+- Search, filter, and paginate leads
+- Experience role-based access control
+- Submit leads using the public Lead Capture Form
+
+---
+
 ## Assignment Objectives
 
 This project was developed to satisfy the requirements of the Digital Heroes Full Stack Development Assignment, including:
