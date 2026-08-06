@@ -28,6 +28,29 @@ function Footer() {
             >
                 © 2026 Soumik Roy
             </p>
+
+            <p
+                style={{
+                    marginTop: "6px",
+                    marginBottom: 0,
+                    fontSize: "11px",
+                    color: "#9ca3af",
+                }}
+            >
+                Built for{" "}
+                <a
+                    href="https://digitalheroesco.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                        color: "#2563eb",
+                        textDecoration: "none",
+                        fontWeight: 500,
+                    }}
+                >
+                    Digital Heroes Training Task
+                </a>
+            </p>
         </footer>
     );
 }
